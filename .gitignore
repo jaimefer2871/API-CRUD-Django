@@ -1,0 +1,10 @@
+__pycache__/
+ *.pyc
+*.code-workspace
+.vscode
+/node_modules
+nohup.out
+ed5_back/env_variables.py
+.scannerwork
+err.log
+stdout.log
